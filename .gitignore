@@ -1,0 +1,4 @@
+.DS_Store
+*.bak
+*.resh-backup-*
+__pycache__/
